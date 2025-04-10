@@ -1,7 +1,10 @@
-# 💫 About Me:
-👋 Hi, I’m Palak Gambhir<br>👀 I’m interested in everything Tech!<br>
+## 💫 About Me:
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21oeTZ4ajdqZnllenh5a2c5enkzcXJvZmNsbXZjdm5nczEzOWZ0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align='right' height='250'>
+👋 Hi, I’m Palak Gambhir<br>
+👀 I’m interested in everything Tech!<br>
 🌱 I’m currently learning Docker and Kubernetes<br>
-💞️ I’m looking to collaborate on meaningful projects that create impact<br>
+💞️ I’m looking to collaborate on meaningful projects<br>
+ that create impact<br>
 📫 How to reach me: palakgambhir2709@gmail.com<br>
 😄 Pronouns: She/Her<br>
 ⚡ Fun fact: I share my birthday with Google!😋 (27 Sept)
@@ -22,4 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GambhirPalak27&icon=0&color=0)](https://visitcount.itsvg.in)
-
