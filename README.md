@@ -1,4 +1,4 @@
-## 💫 About Me:
+## About Me💫:
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21oeTZ4ajdqZnllenh5a2c5enkzcXJvZmNsbXZjdm5nczEzOWZ0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align='right' height='220'>
 👋 Hi, I’m Palak Gambhir<br>
 👩🏻‍💻 I'm presently working as a Backend Developer<br>
